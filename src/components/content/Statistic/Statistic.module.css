@@ -1,0 +1,7 @@
+.statistic{
+    margin-left: 25px;
+}
+.wrapper{
+    display: flex;
+    align-items: flex-start;
+}

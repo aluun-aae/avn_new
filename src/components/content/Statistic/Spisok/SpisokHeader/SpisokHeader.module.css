@@ -1,0 +1,40 @@
+.header{
+    height: 89px;
+    border-bottom:2px solid rgba(0,0,0,0.2);
+    padding: 0 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.btns>*{
+    margin-right: 12px;
+    background: #E1EEF9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 27px;
+height: 27px;
+border-radius: 50%;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 15px;
+
+color: #72A1CA;
+
+}
+.btns>*:hover{
+    text-decoration: none;
+}
+.btns .active{
+    width: 89px;
+height: 28px;
+background: #4B85FF;
+border-radius: 14px;
+color: #FFFFFF;
+}
+.btns{
+    flex-direction: row;
+    display: flex;
+}

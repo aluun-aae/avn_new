@@ -1,0 +1,13 @@
+.asperantura{
+    width: 344px;
+height: 154px;
+background: #FFFFFF;
+border: 1px solid #E7E7E7;
+box-sizing: border-box;
+border-radius: 9px;
+padding: 30px 15px;
+    display: flex;
+}
+.margin{
+    margin-right: 30px;
+}

@@ -1,0 +1,13 @@
+.mainPunkt{
+    font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+color: #6B6B6B;
+display: grid;
+grid-template-columns: 50px 1fr 1fr 1fr;
+justify-items: center;
+padding-top: 15px;
+
+}

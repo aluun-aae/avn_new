@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.content{
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 40px;
+}
+.h4{
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 23px;
+line-height: 10px;
+color: #4165E8;
+
+}
+.p{
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+color: #7A7A7A;
+}
+.ball{
+    font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 0px;
+color: #212121;
+}
